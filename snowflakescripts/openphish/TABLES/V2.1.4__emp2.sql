@@ -1,5 +1,4 @@
-create schema STAGE;
-create table EMP2(
+create table "SNOWFLKE_CICD"."STAGE"."EMP2"(
     id number,
     name varchar
 );
