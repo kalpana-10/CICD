@@ -1,4 +1,4 @@
-create table "DEMO_DB"."PUBLIC"."EMP4"
+create table "DEMO_DB"."PUBLIC"."EMP5"
 (
   id number,
   name varchar
