@@ -1,0 +1,1 @@
+create table DEMO_DB"."PUBLIC"."colors"(cname varchar);
